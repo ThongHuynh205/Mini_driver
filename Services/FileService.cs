@@ -1,4 +1,5 @@
 // FileService
+<<<<<<< HEAD
 using Mini_driver.Models;
 
 namespace Mini_driver.Services
@@ -25,3 +26,5 @@ namespace Mini_driver.Services
         public string GetFilePath(string fileName) => Path.Combine(_storagePath, fileName);
     }
 }
+=======
+>>>>>>> 13726f536716ce0f043fd99701b46665d3b0048a
