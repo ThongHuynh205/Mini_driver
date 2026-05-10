@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Microsoft.AspNetCore.Mvc;
 using Mini_driver.Data;
 using Mini_driver.Models;
@@ -48,3 +49,6 @@ namespace Mini_driver.Controllers
         }
     }
 }   
+=======
+// FileController
+>>>>>>> 13726f536716ce0f043fd99701b46665d3b0048a
