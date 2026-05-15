@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini_driver.Server", "Mini_driver.Server\Mini_driver.Server.csproj", "{5790E75C-795C-4C41-A40E-09876D83F74A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini_driver.Client", "Mini_driver.Client\Mini_driver.Client.csproj", "{F20FA39A-BBC1-482A-A75F-11800B923EC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5790E75C-795C-4C41-A40E-09876D83F74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5790E75C-795C-4C41-A40E-09876D83F74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5790E75C-795C-4C41-A40E-09876D83F74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5790E75C-795C-4C41-A40E-09876D83F74A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20FA39A-BBC1-482A-A75F-11800B923EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20FA39A-BBC1-482A-A75F-11800B923EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20FA39A-BBC1-482A-A75F-11800B923EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20FA39A-BBC1-482A-A75F-11800B923EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {247D444E-74DD-4BD6-808D-AFBF957B4B31}
+	EndGlobalSection
+EndGlobal
